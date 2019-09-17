@@ -11,6 +11,10 @@ class ReviewScraper
 	  	end
 	end
 
+	def lender_name
+		scrape.css('div.lenderInfo h1').text
+	end
+
 	def reviews	
 		# scrape all review nodes and display specific nodes
 		# available within a review as a Hash.
@@ -24,6 +28,6 @@ class ReviewScraper
 				star_count: review.css('div.numRec').text
 		 	}
 		end
-		arr
+		return arr
 	end
 end

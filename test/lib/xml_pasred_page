@@ -1,0 +1,1062 @@
+<div class="col-xs-12 mainReviews ">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+</div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+ <p class="reviewTitle">Great experience </p>
+<p class="reviewText">These folks are really kind and helpful in the whole process which they make simple. I would recommend anyone to them that need financial support </p>
+<div class="hideText">
+<p class="consumerName">April <span>from GROVERTOWN, IN </span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d7ba2569d3827000124ca56">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d7ba2569d3827000124ca56">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Auto Refinance</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Lender Review</div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d7ba2569d3827000124ca56">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d7ba2569d3827000124ca56">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d7ba2569d3827000124ca56">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews ">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+ </div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Friendly and efficient.</p>
+<p class="reviewText">We had a great experience with Triumph Lending. They were very efficient and got us to closing quickly. They were great at communicating and kept us up-to-date throughout the process. We also experienced their friendly professionalism. We highly recommend them.</p>
+<div class="hideText">
+<p class="consumerName">Anne <span>from DALLAS, TX </span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d7ab768728b150001e68cea">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d7ab768728b150001e68cea">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Refinance</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Lender Review</div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d7ab768728b150001e68cea">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d7ab768728b150001e68cea">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d7ab768728b150001e68cea">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews ">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+ <div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+</div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Excellent Service</p>
+<p class="reviewText">John is an awesome loan officer. He is very knowledgeable and helpful. Whenever we have a question, we know John is there to answer right away. I am very comfortable to recommend his service to anyone who needs help on their loan processing.</p>
+<div class="hideText">
+<p class="consumerName">Elizabeth <span>from Allen, TX</span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d77d32906657a00014e956f">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">2</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d77d32906657a00014e956f">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Refinance</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Loan Officer Review</div>
+</li>
+<li>
+<p>Loan Officer:</p>
+<div class="loanType"><a class="page-link" href="https://loanofficers.lendingtree.com/john-guerra/1061039">John Guerra</a></div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d77d32906657a00014e956f">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">2</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d77d32906657a00014e956f">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d77d32906657a00014e956f">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews hiddenReviews">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+ <span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+</div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Suprised</p>
+<p class="reviewText">Once I received my loan, I had been told by several of my contacts that they has also used and had high praise for this service.</p>
+<div class="hideText">
+<p class="consumerName">GARY <span>from TWENTYNINE PALMS, CA </span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d77afc1ef8cdd00012babf9">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d77afc1ef8cdd00012babf9">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+ <li>
+<p>Loan Type:</p> <div class="loanType">Personal Loan</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Lender Review</div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d77afc1ef8cdd00012babf9">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d77afc1ef8cdd00012babf9">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d77afc1ef8cdd00012babf9">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews hiddenReviews">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+</div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Phenomenal Experience - Go with Bob if you want fast, easy, transparent</p>
+<p class="reviewText">Mortgages are some of the largest and most complex loans one will take in a lifetime. Consequently, I really wanted to get into the fine print and make sure that the overall package was the very best I could get for our house. Bob is incredibly responsive (even on weekends, via email or text or phone), and patient in answering my detailed questions on the loan terms and general macroeconomic factors impacting mortgage rates. He and the team at Triumph did an excellent job of racing us through the process, and we actually moved up the closing date as a result. Having gone through mortgage processes before, I can confidently state that this was one of the easiest ones we've closed, and I still walked away feeling like I received a great deal. I have no hesitation in highly recommending Bob for your mortgage needs!</p>
+<div class="hideText">
+<p class="consumerName">Bharath <span>from Spring, TX</span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d7513b6e1e97f0001cb3560">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">1</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d7513b6e1e97f0001cb3560">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>LendingTree Customer:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Home Purchase</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Loan Officer Review</div>
+</li>
+<li>
+<p>Loan Officer:</p>
+<div class="loanType"><a class="page-link" href="https://loanofficers.lendingtree.com/bob-striedl/224641">Bob Striedl</a></div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d7513b6e1e97f0001cb3560">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">1</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d7513b6e1e97f0001cb3560">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d7513b6e1e97f0001cb3560">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews hiddenReviews">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+</div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Best customer service available</p>
+<p class="reviewText">They would do anything they could to help whether it was during normal business hours, after hours, the weekend or even their personal PTO.</p>
+<div class="hideText">
+<p class="consumerName">Colton <span>from Houston, TX</span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d73d0cf5d10410001411254">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">1</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+ <i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d73d0cf5d10410001411254">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Home Purchase</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Loan Officer Review</div>
+</li>
+<li>
+<p>Loan Officer:</p>
+<div class="loanType"><a class="page-link" href="https://loanofficers.lendingtree.com/bob-striedl/224641">Bob Striedl</a></div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d73d0cf5d10410001411254">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">1</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d73d0cf5d10410001411254">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d73d0cf5d10410001411254">
+<div class="review-flag-type">Do you want to flag this review?</div>
+ <button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews hiddenReviews">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+</div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Fast Easy Loan</p>
+<p class="reviewText">The fastest easiest loan experience for me. I definitely recommend using for any of your loan needs. In &amp; out/plus secure it was just a convenient way to get a loan.</p>
+<div class="hideText">
+<p class="consumerName">Felicia <span>from BAKERSFIELD, CA </span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d715b535d104100014111e7">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+ <span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d715b535d104100014111e7">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Personal Loan</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Lender Review</div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d715b535d104100014111e7">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d715b535d104100014111e7">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d715b535d104100014111e7">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews hiddenReviews">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+</div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Great Experience!</p>
+<p class="reviewText">I first made inquiries about getting a refinance loan about a year ago, but decided the timing wasn't right for me. Then, after a year had passed, and the market was in a better position, I received a call from Bob Striedl asking if I was still interested in taking a look. I hadn't even been looking, but after Bob called, I checked it all out, and found that the market was indeed better so let Bob take a crack at it, and boy am I ever glad I did. They made the process as easy as possible, everything worked as it should have, and now I'm in a much better position with my home loan than I was before. The team at Triumph is first class, with technology and qualified people to care of the customers. I would recommend them to anyone!</p>
+<div class="hideText">
+<p class="consumerName">Bart <span>from Longview, TX</span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d7003d22d745b0001328384">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">4</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d7003d22d745b0001328384">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>LendingTree Customer:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Refinance</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Loan Officer Review</div>
+</li>
+<li>
+<p>Loan Officer:</p>
+<div class="loanType"><a class="page-link" href="https://loanofficers.lendingtree.com/bob-striedl/224641">Bob Striedl</a></div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d7003d22d745b0001328384">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+ <span class="likes">4</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d7003d22d745b0001328384">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d7003d22d745b0001328384">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews hiddenReviews">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+</div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Professional </p>
+<p class="reviewText">Miguel Gomez did a great job of keeping us informed and helping us throughout the loan application and approval process. </p>
+<div class="hideText">
+<p class="consumerName">Julio <span>from NEVADA, TX </span></p>
+<p class="consumerReviewDate">Reviewed in September 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d6d9977a4b71a0001a586f0">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="flag-5d6d9977a4b71a0001a586f0">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Home Purchase</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Lender Review</div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d6d9977a4b71a0001a586f0">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">0</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d6d9977a4b71a0001a586f0">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d6d9977a4b71a0001a586f0">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>
+<div class="col-xs-12 mainReviews hiddenReviews">
+<div class="col-xs-12 starReviews">
+<div class="rating-stars-wrapper" itemprop="aggregateRating">
+<div class="rating-stars-bottom">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+<div class="rating-stars-top">
+<div class="rating-stars-bar" style="width:100%;">
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+<span class="lt4-Star" aria-hidden="true"></span>
+</div>
+</div>
+</div>
+<div class="recommended">
+<div class="numRec">(5 of 5)</div>
+<div class="lenderRec">Recommended</div>
+ </div>
+</div>
+<div class="col-lg-9 col-sm-8 col-xs-12 reviewDetail">
+<p class="reviewTitle">Excellent Service!</p>
+<p class="reviewText">Andy was extremely helpful in guiding me through the whole process. I felt that I received a great rate and excellent service. He was always quick to respond to my messages. I highly recommend Triumph Lending!</p>
+<div class="hideText">
+<p class="consumerName">Payam <span>from HOUSTON, TX </span></p>
+<p class="consumerReviewDate">Reviewed in August 2019</p>
+</div>
+<div class="helpfull-count desktop-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d68567084810600013c64c4">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">1</span>
+</a>
+</div>
+<a class="flag" id="flag-5d68567084810600013c64c4">
+<div class="flag-content">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-desktop.png">
+<span class="flag-text">Flag review</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-sm-4 col-xs-12 reviewPoints">
+<div class="hideText">
+<ul>
+<li>
+<p>Closed with Lender:</p> <div class="yes">Yes</div>
+</li>
+<li>
+<p>Loan Type:</p> <div class="loanType">Home Purchase</div>
+</li>
+<li>
+<p>Review Type:</p> <div class="loanType">Lender Review</div>
+</li>
+</ul>
+
+<div class="helpfull-count mobile-view">
+<div class="review-type">WAS THIS REVIEW HELPFUL?</div>
+<div class="helpfull-section">
+<input type="hidden" class="reviewId" name="reviewId" value="5d68567084810600013c64c4">
+<div class="vote-action">
+<a class="voteUp hover" id="voteupclick" data-voteupclick="0">
+<i class="lt4-ThumbsUp like-icon"></i>
+<span class="likes">0</span>
+</a>
+</div>
+<div class="vote-action">
+<a class="voteDown hover" id="votedownclick" data-votedownclick="0">
+<i class="lt4-ThumbsDown dislike-icon"></i>
+<span class="dislikes">1</span>
+</a>
+</div>
+<a class="flag" id="m-flag-5d68567084810600013c64c4">
+<img src="https://www.lendingtree.com/content/themes/lt-wp-www-theme/dist/images/lender-review/review-flag-mobile.png">
+</a>
+<div class="review-flag" id="m-review-flag-5d68567084810600013c64c4">
+<div class="review-flag-type">Do you want to flag this review?</div>
+<button class="btn btn-secondary-bluelg save">Yes</button>
+<button class="btn btn-secondary-bluelg cancel">No</button>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="col-xs-12 reviewBtn">
+<a class="clsReview" href="#">Full Review</a>
+</div>
+</div>

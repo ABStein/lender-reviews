@@ -7,6 +7,9 @@ class ReviewsController < ApplicationController
 		
 		scraper = ReviewScraper.new(url)
 		
-		render json: { reviews: scraper.reviews }
+		render json: { 
+					   lender: scraper.lender_name,
+					   reviews: scraper.reviews 
+					 }
 	end
 end
