@@ -6,7 +6,7 @@ This web service will give you back the user reviews for different loans from Le
 
 `rails server`
 
-use a url param ` ?url=(url for a lender)
+use a url param ` ?url=(url for a lender)`
 
 Note: must be a web request in either http or https.
 

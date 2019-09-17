@@ -1,7 +1,9 @@
 class ReviewScraper
-	attr_accessor :scrape # used to create setter and getter methods for instance variables so that they can be accessed outside the class
+	attr_accessor :scrape
 
 	def initialize(url)
+		# regex check to ensure the url is valid and another check to 
+	    # ensure lendingtree urls are being used 
 		if url =~ /\A#{URI::regexp}\z/ && url.include?("www.lendingtree.com/reviews")
 	  		@scrape = Nokogiri::HTML(HTTParty.get(url))
 	  	else
@@ -10,6 +12,8 @@ class ReviewScraper
 	end
 
 	def reviews	
+		# scrape all review nodes and display specific nodes
+		# available within a review as a Hash.
 		arr = [] 
 		scrape.css('.mainReviews').each do |review|
 			arr << {
