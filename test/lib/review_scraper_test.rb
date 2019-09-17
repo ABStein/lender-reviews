@@ -12,9 +12,7 @@ RSpec.describe ReviewScraper do
 		end
 
 		it 'should parse the page' do
-			puts good_scraper.reviews
 			expect(good_scraper).to be_a(ReviewScraper)
-			expect(good_scraper).to 
 		end
 	end
 end
