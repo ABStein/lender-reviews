@@ -25,7 +25,7 @@ RSpec.describe ReviewScraper do
 			expect(good_scraper).to be_a(ReviewScraper)
 			get_reviews = good_scraper.reviews[0]
 			expect(get_reviews).to include({
-				review_author: "Great experience ",
+				review_title: "Great experience ",
 				review_body: "These folks are really kind and helpful in the whole process which they make simple. I would recommend anyone to them that need financial support ",
 				review_author: "April from GROVERTOWN, IN ",
 				review_date: "Reviewed in September 2019",
