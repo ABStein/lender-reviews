@@ -1,5 +1,7 @@
 # Lender Reviews
 
+* This service will work for all lenders located at this location `https://www.lendingtree.com/reviews`
+
 * To run locally
 
 	`rails server`
