@@ -1,7 +1,5 @@
 # Lender Reviews
 
-This web service will give you back the user reviews for different loans from Lendingtree in the form of JSON.
-
 * To run locally
 
 	`rails server`
