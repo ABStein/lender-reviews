@@ -25,11 +25,11 @@ RSpec.describe ReviewScraper do
 			expect(good_scraper).to be_a(ReviewScraper)
 			get_reviews = good_scraper.reviews[0]
 			expect(get_reviews).to include({
-				review_title: "Great experience ",
-				review_body: "These folks are really kind and helpful in the whole process which they make simple. I would recommend anyone to them that need financial support ",
-				review_author: "April from GROVERTOWN, IN ",
-				review_date: "Reviewed in September 2019",
-				star_count: "(5 of 5)"
+				review_title: "It was a good experience ",
+				review_body: "Never heard of Network funding or triumph lending compare to big banks and credit unions out there. I was afraid if I was wasting my time to apply with them. So I was shopping around mortgage rates with 4 different lenders thru online and the app. Network Funding were the only mortgage company popped up on my lending trees app. My lender agent was Peter Lammerts. He contacted me right away thru the email when he got my request. He was very helpful and friendly, he answered all kind of questions that I asked. Working with network funding had been very smooth and easy to understand. They process documents right away when you upload the files online. Everything was promised as it was. My interest rate was 3.625% 30 years fixed. I was very happy that I closed the house with network funding . Hey! hey! hey! For those of you with big money in the market seeking for mortgage . Give them a try, you will never get disappointed. Thank you for being exist in this world. ",
+				review_author: "Jinyang from SAN ANTONIO, TX ",
+				review_date: "Reviewed in October 2019",
+				star_count: "(5 of 5)stars"
 			})
 		end
 	end

@@ -2,20 +2,20 @@ class ReviewScraper
 	attr_accessor :scrape
 
 	def initialize(url)
-		# regex check to ensure the url is valid and another check to 
-	    # ensure lendingtree urls are being used 
+		# regex check to ensure the url string is valid http/https request 
+	  # and another check to ensure lendingtree urls are being used. 
 		if url =~ /\A#{URI::regexp}\z/ && url.include?("www.lendingtree.com/reviews")
-	  		@scrape = Nokogiri::HTML(HTTParty.get(url))
-	  	else
-	  		raise "Please enter a valid URL."
-	  	end
+	  	@scrape = Nokogiri::HTML(HTTParty.get(url))
+	  else
+	  	raise "Please enter a valid URL."
+	  end
 	end
 
-	def lender_name
+	def lender_name 
 		scrape.css('div.lenderInfo h1').text
 	end
 
-	def reviews	
+	def reviews
 		# scrape all review nodes and display specific nodes
 		# available within a review as a Hash.
 		arr = [] 
